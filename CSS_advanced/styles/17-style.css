@@ -44,9 +44,11 @@ html {
   }
   .section-body {
     padding: var(--section-body-padding);
+    text-align: var(--section-footer-align);
   }
   .section-footer {
-    padding: var(--section-footer-align);
+    padding: var(--section-footer-padding);
+
   }
   .section-title {
     font-family: var(--font-family-title);
