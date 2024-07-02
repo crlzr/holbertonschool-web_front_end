@@ -17,7 +17,7 @@ html {
     font-style: italic;
   }
   a:hover {
-    font-style: underline;
+    text-decoration: underline;
   }
   a:active {
     background: var(--color-light-grey);
