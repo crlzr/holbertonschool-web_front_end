@@ -166,6 +166,7 @@ ul.row {
   --text-color: var(--color-white);
   --section-title-color: var(--color-white);
   background-color: var(--button-hover-background);
+  --button-color: var(--color-white);
 }
 :root {
   --color-primary: #d73953;
