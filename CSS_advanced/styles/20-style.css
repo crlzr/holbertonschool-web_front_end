@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 .footer {
   padding: var(--footer-padding);
 }
-.row:after {
+.row::after {
   content: none;
   display: table;
   float: none;
